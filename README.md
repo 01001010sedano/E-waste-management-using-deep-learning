@@ -1,6 +1,8 @@
-# Robotic Arm E-Waste Detection and Sorting System
+# E-Waste Management Using Deep Learning
 
 An intelligent robotic arm system that uses computer vision and machine learning to detect, classify, and sort electronic waste items using Particle Swarm Optimization (PSO) for path planning.
+
+> **Note**: This repository contains a comprehensive implementation of an e-waste management system using YOLOv8 and robotics integration.
 
 ## 🤖 Features
 
